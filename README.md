@@ -19,3 +19,5 @@ The average order delivery time, peaking at 22 hours in the "Order Time Hours" l
 
 #### Strategic Implications
 This data underscores FNP's strong market presence, with opportunities to capitalize on high-performing occasions, categories, and regions. Addressing delivery time variability and preparing for weather-related disruptions will be key to sustaining growth. The dashboard serves as a vital tool for strategic decision-making, offering a detailed snapshot of 2023 performance to guide future planning.
+<img width="1858" height="881" alt="image" src="https://github.com/user-attachments/assets/15ab03d6-c699-4b04-ae37-738f397f26b5" />
+
